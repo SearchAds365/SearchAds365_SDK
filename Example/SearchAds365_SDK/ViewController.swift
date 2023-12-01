@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  SearchAds365_SDK
 //
-//  Created by huazhenyun on 11/16/2023.
-//  Copyright (c) 2023 huazhenyun. All rights reserved.
+//  Created by SearchAds365 on 11/16/2023.
+//  Copyright (c) 2023 SearchAds365. All rights reserved.
 //
 
 import UIKit

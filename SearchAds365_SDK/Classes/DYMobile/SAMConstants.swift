@@ -23,7 +23,7 @@ class SAMConstants: NSObject {
     }
 
     enum Versions {
-        static let SDKVersion = "0.0.1"
+        static let SDKVersion = "0.0.2"
         static let SDKBuild = 1
     }
     

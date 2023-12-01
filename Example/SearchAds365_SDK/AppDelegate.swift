@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  SearchAds365_SDK
 //
-//  Created by huazhenyun on 11/16/2023.
-//  Copyright (c) 2023 huazhenyun. All rights reserved.
+//  Created by SearchAds365 on 11/16/2023.
+//  Copyright (c) 2023 SearchAds365. All rights reserved.
 //
 
 import UIKit
@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         //激活SAMobileSDK
         SAMobileSDK.activate()

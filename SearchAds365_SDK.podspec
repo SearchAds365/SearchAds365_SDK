@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SearchAds365_SDK'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'SearchAds365_SDK podspec file.'
 
 # This description is used to generate tags and improve search results.
@@ -28,6 +28,7 @@ TODO: SearchAds365_SDK: to analyze data conveniently.
   s.ios.deployment_target = '11.0'
 
   s.source_files = 'SearchAds365_SDK/Classes/**/*'
+  s.swift_version = '4.0'
 
   s.dependency 'FCUUID','~> 1.3.1'
   s.dependency 'AnyCodable-FlightSchool', '~> 0.6.1'

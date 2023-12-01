@@ -51,7 +51,7 @@ THE SOFTWARE.
 
 ## SearchAds365_SDK
 
-Copyright (c) 2023 huazhenyun <support@dingyue.io>
+Copyright (c) 2023 SearchAds365 <support@dingyue.io>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
