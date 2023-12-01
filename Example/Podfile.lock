@@ -1,0 +1,31 @@
+PODS:
+  - AnyCodable-FlightSchool (0.6.7)
+  - FCUUID (1.3.1):
+    - UICKeyChainStore (~> 2.1.0)
+  - SearchAds365_SDK (0.0.1):
+    - AnyCodable-FlightSchool (~> 0.6.1)
+    - FCUUID (~> 1.3.1)
+  - UICKeyChainStore (2.1.2)
+
+DEPENDENCIES:
+  - SearchAds365_SDK (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - AnyCodable-FlightSchool
+    - FCUUID
+    - UICKeyChainStore
+
+EXTERNAL SOURCES:
+  SearchAds365_SDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AnyCodable-FlightSchool: 261cbe76757802b17d471b9059b21e6fa5edf57b
+  FCUUID: bb054fc90cd7cd99320f9f6ff8e130fe607fba05
+  SearchAds365_SDK: 34f2062a70507aa01bd08b1912e28746f238c34a
+  UICKeyChainStore: 85db518bb1d294366d15ec9b92a416c4e670518f
+
+PODFILE CHECKSUM: e577ca44965f0ec801eb92588d323938106d3476
+
+COCOAPODS: 1.11.3

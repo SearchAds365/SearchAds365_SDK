@@ -1,0 +1,6 @@
+framework module SearchAds365_SDK {
+  umbrella header "SearchAds365_SDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

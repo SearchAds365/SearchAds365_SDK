@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SEARCHADS365_API_KEY</key>
+	<string>eyJraWQiOiI3Yjk1OWNiNmMwYjM0OTNkYTZmYjI0ZTlkYzBkYjE1MCIsImFsZyI6IkhTNTEyIiwidHlwIjoiSldUIn0.eyJpc3MiOiJGYXJUZWNoIEFwcCBDZW50ZXIgU2VydmljZSIsImV4cCI6NDg1NDgyNDc3MywiaWF0IjoxNzAxMjI0NzczLCJ1c2VyIjoiZTBhMzJhZTZlZTY4NDE4YzhkN2UwZTIxZDIxZjFjMGEiLCJhcHBfbmFtZSI6IlNlYXJjaEFkVGVzdEFwcCIsIm93bmVyIjoidGVzdHNkayJ9.G-482ULZSfrnXVuUkyNRff0DXMLJYKyT8KkUU50Fxz4I2Ify9GOtbULioQq7nnUazja43CytorNO_yawXqQOfw</string>
+	<key>SEARCHADS365_APP_ID</key>
+	<string>e0a32ae6ee68418c8d7e0e21d21f1c0a</string>
+</dict>
+</plist>
